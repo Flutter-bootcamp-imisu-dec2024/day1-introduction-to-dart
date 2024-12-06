@@ -53,7 +53,7 @@ void main() {
     "996" : 5543843492
   };
 
-  myData["IMUIS"] = "CS";
+  myData["IMISU"] = "CS";
 
 int a = 9;
 final int b = a;
